@@ -1,0 +1,10 @@
+C:\Users\jesus\source\repos\XML_1\XML_1\bin\Debug\XML_1.exe.config
+C:\Users\jesus\source\repos\XML_1\XML_1\bin\Debug\XML_1.exe
+C:\Users\jesus\source\repos\XML_1\XML_1\bin\Debug\XML_1.pdb
+C:\Users\jesus\source\repos\XML_1\XML_1\obj\Debug\XML_1.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\XML_1\XML_1\obj\Debug\XML_1.Form1.resources
+C:\Users\jesus\source\repos\XML_1\XML_1\obj\Debug\XML_1.Properties.Resources.resources
+C:\Users\jesus\source\repos\XML_1\XML_1\obj\Debug\XML_1.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\XML_1\XML_1\obj\Debug\XML_1.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\XML_1\XML_1\obj\Debug\XML_1.exe
+C:\Users\jesus\source\repos\XML_1\XML_1\obj\Debug\XML_1.pdb
